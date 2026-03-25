@@ -55,7 +55,7 @@ src/test/java/com/todo/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 ```bash
 # Run all tests
 mvn test
@@ -64,17 +64,17 @@ mvn test
 mvn test -Denv=staging
 ```
 
-## 📊 Generate Allure Report
+##  Generate Allure Report
 ```bash
 mvn allure:serve
 ```
 
-## ⚡ Parallel Execution
+##  Parallel Execution
 
 Tests run in **10 threads** for faster execution.
 
 ---
 
-## 🔄 CI/CD
+##  CI/CD
 
 Automated pipeline runs on every push to `main` via **GitHub Actions**.
