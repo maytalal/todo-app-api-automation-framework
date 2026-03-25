@@ -45,13 +45,13 @@ src/test/java/com/todo/
 ##  Test Coverage
 
 **User Flow**
-- ✔ Register (Positive & Negative)
-- ✔ Login (Positive & Negative)
+-  Register (Positive & Negative)
+-  Login (Positive & Negative)
 
 **Todo Flow**
-- ✔ Add Todo (Positive & Negative)
-- ✔ Get Todo
-- ✔ Delete Todo
+-  Add Todo (Positive & Negative)
+-  Get Todo
+-  Delete Todo
 
 ---
 
