@@ -21,6 +21,9 @@ Covers full user and todo flows with a clean, production-ready framework design.
 
 ##  Project Structure
 ```
+.postman/
+├── Todo_App_API.postman_collection.json
+└── Production.postman_environment.json
 src/test/java/com/todo/
 ├── apis/
 │   ├── ToDoApi.java
@@ -78,3 +81,7 @@ Tests run in **10 threads** for faster execution.
 ##  CI/CD
 
 Automated pipeline runs on every push to `main` via **GitHub Actions**.
+
+
+
+
