@@ -64,7 +64,7 @@ src/test/java/com/todo/
 mvn test
 
 # Run with specific environment
-mvn test -Denv=staging
+mvn test -Denv=PRODUCTION
 ```
 
 ##  Generate Allure Report
